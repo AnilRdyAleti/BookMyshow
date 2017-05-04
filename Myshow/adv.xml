@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Advertisements>
+   <Ad>
+      <ImageUrl>\Images\Atnt.jpg</ImageUrl>
+      <NavigateUrl>https://cprodmasx.att.com</NavigateUrl>
+      <AlternateText>
+       No image display
+      </AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>flowers</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>Images\airtel.png</ImageUrl>
+      <NavigateUrl>http://www.airtel.in/</NavigateUrl>
+      <AlternateText>No image display</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>gifts</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>Images\comcat.png</ImageUrl>
+      <NavigateUrl>http://www.xfinity.com/</NavigateUrl>
+      <AlternateText>No image display</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>russia</Keyword>
+   </Ad>
+</Advertisements>

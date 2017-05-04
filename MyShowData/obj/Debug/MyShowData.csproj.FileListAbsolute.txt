@@ -1,0 +1,5 @@
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowData\obj\Debug\MyShowData.csprojResolveAssemblyReference.cache
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowData\bin\Debug\MyShowData.dll
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowData\bin\Debug\MyShowData.pdb
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowData\obj\Debug\MyShowData.dll
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowData\obj\Debug\MyShowData.pdb

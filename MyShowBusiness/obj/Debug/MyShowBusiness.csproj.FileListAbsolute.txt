@@ -1,0 +1,7 @@
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowBusiness\bin\Debug\MyShowBusiness.dll
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowBusiness\bin\Debug\MyShowBusiness.pdb
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowBusiness\bin\Debug\MyShowData.dll
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowBusiness\bin\Debug\MyShowData.pdb
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowBusiness\obj\Debug\MyShowBusiness.csprojResolveAssemblyReference.cache
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowBusiness\obj\Debug\MyShowBusiness.dll
+C:\Users\anilreddy\Documents\Visual Studio 2015\Projects\Bookmyshow\MyShowBusiness\obj\Debug\MyShowBusiness.pdb
